@@ -10,6 +10,8 @@ python = "^3.10"
 python-dotenv = "^1.0.0"
 langchain = "^0.0.308"
 openai = "^0.28.1"
+tiktoken = "^0.5.1"
+faiss-cpu = "^1.7.4"
 
 
 [build-system]
